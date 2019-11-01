@@ -1,0 +1,95 @@
+#mysayt{
+	width: 1200px;
+	outline: 2px inset #DA81F5;
+	margin: 0px auto;
+	color: #FFFFFF;
+}
+#head{
+	width: 1200px;
+	height: 50px;}
+li{display: inline;}
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #CCEEFF;
+	padding: 1em;
+	background: #9A2EFE;
+	border-right: 1px solid #01DF01;
+	color: #FFFFFF;
+}
+ul{
+		list-style: none;
+	margin: 0 auto;
+	padding-left: 0;
+	padding: 15px;
+	background: #B964D4;
+}
+h1{
+	text-align: center;
+	color: #;
+}
+
+#slaim1{
+	width: auto;
+	margin: 0px auto;
+
+}
+#slaym2{
+	width: auto;
+	margin: 0px auto;
+
+}
+#slaim1{
+	width: auto;
+	margin: 0px auto;
+
+}
+#slaim1{
+	width: auto;
+	margin: 0px auto;
+
+}
+#chto1{
+	width: 590px;
+	height: 100px;
+	border: 3px inset #0000ff;
+	text-align: center;
+	float: left;
+}
+#chto2{
+	width: 590px;
+	height: 100px;
+	border: 3px inset #0000ff;
+	text-align: center;
+	float: left;
+}	
+#chto3{
+	width: 590px;
+	height: 100px;
+	border: 3px inset #0000ff;
+	text-align: center;
+	float: left;
+}
+#how1{
+	width: 590px;
+	height: 100px;
+	border: 3px inset #FF00FF;
+	text-align: center;
+	float: left;
+}
+#how2{
+	width: 590px;
+	height: 100px;
+	border: 3px inset #FF00FF;
+	text-align: center;
+	float: left;
+}
+#how3{
+	width: 590px;
+	height: 100px;
+	border: 3px inset #FF00FF;
+	text-align: center;
+	float: left;
+}
+body{
+background-color:#D358F7;}
